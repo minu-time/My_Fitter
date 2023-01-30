@@ -1,6 +1,6 @@
 
 """
-This is the place where My_Fitter service starts.
+This is the place where My_Fitter service starts!
 Various functions are located to limit inputs and help the customer to fit their golf clubs.
 """
 
