@@ -1,6 +1,6 @@
 
 """
-A bunch of customized Exception classes. Details are explained inside each class.
+A bunch of customized Exception classes. Details are explained inside each class!
 """
 
 
