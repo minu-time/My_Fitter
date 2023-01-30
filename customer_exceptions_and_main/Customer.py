@@ -1,6 +1,6 @@
 
 """
-The Customer class represents customer.
+The Customer class represents customer!
 * It includes customer's information.
 * It imports customized exceptions from EveryExceptions.py.
 * It also import 'random' module to use 'choice' function to give a random number from these three numbers: 5, 10, 25 (will be explained from 'get_coupon' method).
