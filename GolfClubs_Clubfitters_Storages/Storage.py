@@ -1,6 +1,6 @@
 
 """
-The Storage class represents the storage of shaft or grip.
+The Storage class represents the storage of shaft or grip!
 """
 
 
