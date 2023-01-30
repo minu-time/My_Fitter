@@ -1,7 +1,7 @@
 Hello! My name is Minwoo Kim and this is my first programming project with using Python.
 This is an unprofitable programming project. I don't gain any money through this program.
 I also did not use any GUI frameworks to visualize this program (I will work on this one day).
-However, you can try it from your terminal or any type of IDE that supports Python.
+However, you can try it from your terminal or any type of IDE that supports Python!
 
 
 I got inspired by these websites:
