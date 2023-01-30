@@ -1,6 +1,6 @@
 
 """
-GolfClubs_and_Storages.py includes GolfClub, ClubFitter, and Storage objects.
+GolfClubs_and_Storages.py includes GolfClub, ClubFitter, and Storage objects!
 """
 
 
