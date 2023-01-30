@@ -1,6 +1,6 @@
 
 """
-The ClubFitter class represents the club fitter. He/She can change the shaft, grip, or loft of the golf club.
+The ClubFitter class represents the club fitter. He/She can change the shaft, grip, or loft of the golf club!
 """
 
 
