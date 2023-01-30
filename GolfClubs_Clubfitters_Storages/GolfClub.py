@@ -1,6 +1,6 @@
 
 """
-The GolfClub class represents the golf club. It includes the detailed parts of a certain golf club.
+The GolfClub class represents the golf club. It includes the detailed parts of a certain golf club!
 """
 
 
