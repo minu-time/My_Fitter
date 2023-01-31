@@ -5,7 +5,7 @@ Various functions are located to limit inputs and help the customer to fit their
 """
 
 
-from GolfClubs_Clubfitters_Storages.GolfClubs_and_Storages import *
+from GolfClubs_and_Storages import *
 from Customer import *
 from EveryExceptions import *
 

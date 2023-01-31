@@ -4,9 +4,9 @@ GolfClubs_and_Storages.py includes GolfClub, ClubFitter, and Storage objects!
 """
 
 
-from GolfClubs_Clubfitters_Storages.GolfClub import *
-from GolfClubs_Clubfitters_Storages.ClubFitter import *
-from GolfClubs_Clubfitters_Storages.Storage import *
+from GolfClub import *
+from ClubFitter import *
+from Storage import *
 
 # GolfClub and ClubFitter objects can be added infinitely!
 
